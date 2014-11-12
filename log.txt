@@ -1,0 +1,48 @@
+Making connections...
+
+PEG: 600 rows; 1000 cols; Distribution : 0.3 X^3 + 0.4 X^5 + 0.2 X^6 + 0.1 X^8
+
+Generated Code 1: 1.515 sec
+
+Making connections...
+
+PEG: 300 rows; 1000 cols; Distribution : 0.3333 X^3 + 0.3333 X^4 + 0.3333 X^5
+
+Generated Code 2: 0.844 sec
+
+End of Simulation Run 1: 0.766 sec
+
+End of Simulation Run 2: 11.890 sec
+---------------------------------------------------------------
+Making connections...
+
+PEG: 300 rows; 500 cols; Distribution : 0.4 X^3 + 0.4 X^5 + 0.2 X^6
+
+Generated Code 1: 0.344 sec
+
+Making connections...
+
+PEG: 150 rows; 500 cols; Distribution : 0.3333 X^3 + 0.3333 X^4 + 0.3333 X^5
+
+Generated Code 2: 0.218 sec
+
+End of Simulation Run 1: 0.219 sec
+
+End of Simulation Run 2: 2.938 sec
+---------------------------------------------------------------
+Making connections...
+
+PEG: 300 rows; 500 cols; Distribution : 1.0 X^5
+
+Generated Code 1: 0.390 sec
+
+Making connections...
+
+PEG: 150 rows; 500 cols; Distribution : 0.3333 X^3 + 0.3333 X^4 + 0.3333 X^5
+
+Generated Code 2: 0.203 sec
+
+End of Simulation Runs: 0.250 sec
+
+End of Simulation Runs: 3.625 sec
+---------------------------------------------------------------

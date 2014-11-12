@@ -1,0 +1,25 @@
+ARQ =0
+Error knee =0.395
+Error plateau =0.455
+
+Error knee =0.41
+Error plateau =0.44
+
+Error knee =0.38
+Error plateau =0.425
+
+Error knee =0.39999998
+Error plateau =0.44
+
+
+ARQ=2
+Error knee =0.42
+Error plateau =0.45
+
+ARQ=4
+Error knee =0.43
+Error plateau =0.45
+
+ARQ=10
+Error knee =0.43
+Error plateau =0.45

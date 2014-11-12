@@ -1,0 +1,27 @@
+block_length = 500
+check_length1 = 300
+check_length2 = 150
+row_weight1 = 5
+row_weight2 = 5
+column_weight1 = 3
+column_weight2 = 3
+allowed_degrees1 = 5
+node_fractions1 = 1.0
+allowed_degrees2 = 3,4,5
+node_fractions2 = 0.3333,0.3333,0.3333
+generate_random = false
+random_seed = 13
+silent_mode = true
+start_prob = 0.3
+end_prob = 0.6
+prob_step = 0.1
+num_trials = 5
+zoom_prob_step = 0.05
+zoom_num_trials = 10
+
+
+
+
+
+
+
